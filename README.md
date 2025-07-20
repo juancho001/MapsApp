@@ -47,4 +47,5 @@ For more information on using the REST Countries, including documentation, visit
 1. Creaión del nuevo proyecto.
 2. Instalación de Tailwind CSS y Daisy UI
 3. Definiendo los directorios y rutas de navegación
+4. Implementanto el NavBar
 ```
